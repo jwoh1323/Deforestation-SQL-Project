@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project involves analyzing worldwide forestation trends to guide organizational strategies. Utilizing comprehensive data tables on forest cover and land area across different regions, I've created a database to identify countries with shrinking forest sizes and those with significant forest areas. The objective is to prepare a detailed report, highlighting key insights from 1990 to 2016, to assist the executive team in resource allocation and developing impactful environmental initiatives. This analysis is pivotal for the upcoming executive meeting, aiming to shape ForestQuery's future conservation efforts effectively.
+This project involves analyzing worldwide forestation trends to guide organizational strategies. Utilizing comprehensive data tables on forest cover and land area across different regions, I've created a database to identify countries with shrinking forest sizes and those with significant forest areas. The objective is to prepare a detailed report, highlighting key insights from 1990 to 2016.
 
 ## Dataset Info
 

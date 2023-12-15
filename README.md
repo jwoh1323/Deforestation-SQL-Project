@@ -52,4 +52,4 @@ This project includes data from the [World Bank](https://www.worldbank.org/en/ho
 
 ## Project Output
 
- The findings of the analysis are  detailed in this [report]().
+ The findings of the analysis are  detailed in this [report](https://github.com/jwoh1323/Deforestation-SQL-Project/blob/f2d8797a84a39abb6de7b235044fd864ac82ba14/deforestation-exploration-project-jinwoo.pdf).

@@ -8,6 +8,9 @@ This project involves analyzing worldwide forestation trends to guide organizati
 
 This project includes data from the [World Bank](https://www.worldbank.org/en/home) 🌍 on global deforestation from the year 1990 to 2016.
 
+## Languages & Tools used 
+
+PostgreSQL
 
 ## Project tasks
 

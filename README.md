@@ -12,6 +12,7 @@ This project includes data from the [World Bank](https://www.worldbank.org/en/ho
 
 PostgreSQL
 
+
 ## Project tasks
 
 **JOIN TABLES AND CREATE VIEW**
